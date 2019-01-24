@@ -8,7 +8,7 @@ import nodz_utils as utils
 
 
 defaultConfigPath = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'default_config.json')
-
+# defaultConfigPath = '/home/alexis/Documents/RND/Nodz/default_config.json'
 
 class Nodz(QtWidgets.QGraphicsView):
 
